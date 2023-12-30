@@ -12,7 +12,7 @@
 ‣ [View / Verify My Certification](https://www.credly.com/badges/9b7e99b7-47f1-4665-abca-0e55ec230736/public_url)
  
 - <b>IBM Cybersecurity Analyst</b>
-‣ [View / Verify My Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+‣ [View / Verify My Certification](https://www.credly.com/badges/874e59fe-f4b3-4761-bcb5-3d64bed68120/public_url)
 
 
 
