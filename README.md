@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sir Dodge!</h1> Cybersecurity Analyst, Videographer, <a href="">Cybersecurity Analyst</a>
+<h1>Hi, I'm Sir Dodge!</h1> Cybersecurity Analyst, Videographer, </font><a href="">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -51,4 +51,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+-
 -->
