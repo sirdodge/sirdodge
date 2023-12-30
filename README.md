@@ -2,18 +2,17 @@
 
 <h2>Certifications</h2>
 
-- <b>Google Cybersecurity Professional</b><br>
-Demonstration of the following<br>
-  - [View My Certification](https://www.credly.com/badges/2c6dbfc7-681c-4dc0-930b-39a4115cd1fe/linked_in?t=rz8esa)
+- <b>Google Cybersecurity Professional</b>
+‣ [View My Certification](https://www.credly.com/badges/2c6dbfc7-681c-4dc0-930b-39a4115cd1fe/linked_in?t=rz8esa)
  
 - <b>Microsoft Cybersecurity Analyst</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+‣ [View My Certification](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>ISC2 Certified in Cybersecurity</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+‣ [View My Certification](https://github.com/joshmadakor1/Algorithms-Practice)
  
 - <b>IBM Cybersecurity Analyst</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) 
+‣ [View My Certification](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
@@ -51,7 +50,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🖐🏽 I’m currently working on ...
-
+►
 
 
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
