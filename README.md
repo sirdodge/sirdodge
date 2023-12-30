@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sir Dodge!</h1> Cybersecurity Analyst, Videographer, UAS Pilot
+<h1>🖐🏽 Hi, I'm Sir Dodge!</h1> Cybersecurity Analyst, Videographer, UAS Pilot
 
 <h2>Certifications</h2>
 
@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🖐🏽 I’m currently working on ...
+
 
 
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
