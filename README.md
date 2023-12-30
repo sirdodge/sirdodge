@@ -6,7 +6,7 @@
 ‣ [View / Verify My Certification](https://www.credly.com/badges/2c6dbfc7-681c-4dc0-930b-39a4115cd1fe/linked_in?t=rz8esa)
  
 - <b>Microsoft Cybersecurity Analyst</b>
-‣ [View My Certification](https://github.com/joshmadakor1/Algorithms-Practice)
+‣ [View My Certification](https://coursera.org/share/0cd2892000787f765e82353e292e700e)
 
 - <b>ISC2 Certified in Cybersecurity</b>
 ‣ [View / Verify My Certification](https://www.credly.com/badges/9b7e99b7-47f1-4665-abca-0e55ec230736/public_url)
