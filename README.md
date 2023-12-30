@@ -2,8 +2,9 @@
 
 <h2>Certifications</h2>
 
-- <b>Google Cybersecurity Professional</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Google Cybersecurity Professional</b><br>
+Demonstration of the following<br>
+  - [View My Certification](https://www.credly.com/badges/2c6dbfc7-681c-4dc0-930b-39a4115cd1fe/linked_in?t=rz8esa)
  
 - <b>Microsoft Cybersecurity Analyst</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
