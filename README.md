@@ -1,16 +1,19 @@
-<h1>👋🏽 Hi, I'm Sir Dodge!</h1> Cybersecurity Analyst, Videographer, UAS Pilot
+<h1>👋🏽 Hi, I'm Sir Dodge!</h1> Cybersecurity Analyst & Sr. Technology Analyst
+
+<h2>3 Fun Facts about Me!</h2>
+
+‣ I've traveled to Egypt, Bali and Hong Kong<br/>
+‣ I obtained my FAA Licensed UAV Pilot<br/>
+‣ My wife and I are rollercoaster enthusiasts
 
 <h2>Certifications</h2>
 
 - <b>Google Cybersecurity Professional</b>
 ‣ [View / Verify My Certification](https://www.credly.com/badges/2c6dbfc7-681c-4dc0-930b-39a4115cd1fe/linked_in?t=rz8esa)
- 
 - <b>Microsoft Cybersecurity Analyst</b>
 ‣ [View My Certification](https://coursera.org/share/0cd2892000787f765e82353e292e700e)
-
 - <b>ISC2 Certified in Cybersecurity</b>
 ‣ [View / Verify My Certification](https://www.credly.com/badges/9b7e99b7-47f1-4665-abca-0e55ec230736/public_url)
- 
 - <b>IBM Cybersecurity Analyst</b>
 ‣ [View / Verify My Certification](https://www.credly.com/badges/874e59fe-f4b3-4761-bcb5-3d64bed68120/public_url)
 
@@ -18,11 +21,10 @@
 
 <h2>Cybersecurity Projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Microsoft Sentinel - [click here](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Windows10 VM HoneyPot - [click here](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- Vulnerability Scanning - [click here](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- Packet Capture using WireShark - [click here](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 <h2> 🤳 Connect with me:</h2>
 
