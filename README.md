@@ -23,15 +23,15 @@
 
 - Microsoft Sentinel - [click here](https://github.com/sirdodge/projecttest)
 - Windows10 VM HoneyPot - [click here](https://github.com/sirdodge/projecttest)
-- Vulnerability Scanning - [click here](https://github.com/sirdodge/projecttest)
-- Packet Capture using WireShark - [click here](https://github.com/sirdodge/projecttest)
+- Threat Response - [click here](https://github.com/sirdodge/projecttest)
+- Packet Capture & Evaluation using WireShark - [click here](https://github.com/sirdodge/projecttest)
 
 <h2>Connect with me</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SirDodge | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SirDodge | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SirDodge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SirDodge | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com
