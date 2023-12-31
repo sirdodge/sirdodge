@@ -54,4 +54,7 @@ Here are some ideas to get you started:
 - 🖐🏽 I’m currently working on ...
 ► 👋🏽
 
+Other Help
+
+- Incident Response : follow a certain methodology and procedure to dectecta cyber incident, analyze a cyber incident and respond to it.
 -->
