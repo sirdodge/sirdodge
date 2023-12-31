@@ -4,7 +4,7 @@
 
 ‣ I've traveled to Egypt, Bali and Hong Kong<br/>
 ‣ I'm an FAA Licensed UAV Pilot<br/>
-‣ I once jumped out of a plane; but never off a bridge!
+‣ I jumped out of a plane once; but never off a bridge!
 
 <h2>Certifications</h2>
 
