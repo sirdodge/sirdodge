@@ -3,8 +3,8 @@
 <h2>3 Fun Facts about Me!</h2>
 
 ‣ I've traveled to Egypt, Bali and Hong Kong<br/>
-‣ I obtained my FAA Licensed UAV Pilot<br/>
-‣ My wife and I are rollercoaster enthusiasts
+‣ I'm an FAA Licensed UAV Pilot<br/>
+‣ I once jumped out of a plane; but never off a bridge!
 
 <h2>Certifications</h2>
 
