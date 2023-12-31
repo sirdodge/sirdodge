@@ -21,10 +21,10 @@
 
 <h2>Cybersecurity Projects</h2>
 
-- Microsoft Sentinel - [click here](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- Windows10 VM HoneyPot - [click here](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- Vulnerability Scanning - [click here](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- Packet Capture using WireShark - [click here](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- Microsoft Sentinel - [click here](https://github.com/sirdodge/projecttest)
+- Windows10 VM HoneyPot - [click here](https://github.com/sirdodge/projecttest)
+- Vulnerability Scanning - [click here](https://github.com/sirdodge/projecttest)
+- Packet Capture using WireShark - [click here](https://github.com/sirdodge/projecttest)
 
 <h2> 🤳 Connect with me:</h2>
 
