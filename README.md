@@ -39,7 +39,7 @@
 [linkedin]: https://linkedin.com/in/sirdodge
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sirdodge/sirdodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -54,8 +54,4 @@ Here are some ideas to get you started:
 - 🖐🏽 I’m currently working on ...
 ► 👋🏽
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
--
 -->
