@@ -17,7 +17,7 @@
 - <b>IBM Cybersecurity Analyst</b>
 ‣ [View / Verify My Certification](https://www.credly.com/badges/874e59fe-f4b3-4761-bcb5-3d64bed68120/public_url)
 
-<a href="ttps://www.credly.com/badges/2c6dbfc7-681c-4dc0-930b-39a4115cd1fe/linked_in?t=rz8esa"><img src="https://i.imgur.com/qZOSrnm.png" title="source: imgur.com" width="100" height="100" /></a> &nbsp;<a href="https://imgur.com/6wgqy7c"><img src="https://i.imgur.com/6wgqy7c.png" title="source: imgur.com" width="80" height="80" /></a> &nbsp; &nbsp; <a href="https://imgur.com/2F2h7Vh"><img src="https://i.imgur.com/2F2h7Vh.png" title="source: imgur.com" width="80" height="80" /></a> &nbsp; <a href="https://imgur.com/eiwDeIN"><img src="https://i.imgur.com/eiwSeIN.png" title="source: imgur.com" width="80" height="80" /></a>
+<a href="https://www.credly.com/badges/2c6dbfc7-681c-4dc0-930b-39a4115cd1fe/linked_in?t=rz8esa"><img src="https://i.imgur.com/qZOSrnm.png" title="source: imgur.com" width="100" height="100" /></a> &nbsp;<a href="https://coursera.org/share/0cd2892000787f765e82353e292e700e"><img src="https://i.imgur.com/6wgqy7c.png" title="source: imgur.com" width="80" height="80" /></a> &nbsp; &nbsp; <a href="https://imgur.com/2F2h7Vh"><img src="https://i.imgur.com/2F2h7Vh.png" title="source: imgur.com" width="80" height="80" /></a> &nbsp; <a href="https://imgur.com/eiwDeIN"><img src="https://i.imgur.com/eiwSeIN.png" title="source: imgur.com" width="80" height="80" /></a>
 
 <h2>Cybersecurity Projects</h2>
 
